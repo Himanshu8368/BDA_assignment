@@ -1,0 +1,14 @@
+{
+  "Nodes": 7115,
+  "Edges": 103689,
+  "Largest WCC (nodes)": 7066,
+  "WCC fraction": 0.9931131412508785,
+  "Largest SCC (nodes)": 1298,
+  "Largest SCC (edges)": 39443,
+  "SCC fraction": 0.18243148278285312,
+  "Number of triangles": 608389,
+  "Closed triangles fraction": 0.03829996211483574,
+  "Avg clustering coeff": 0.13620421627000562,
+  "Diameter": 7,
+  "Effective diameter": 4
+}

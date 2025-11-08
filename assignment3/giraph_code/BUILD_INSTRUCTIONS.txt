@@ -1,0 +1,37 @@
+
+# Giraph Build and Run Instructions
+
+## Prerequisites
+1. Install Java 8 or higher
+2. Install Apache Maven
+3. Install Hadoop (2.7.x or compatible)
+
+## Build
+cd giraph_code
+mvn clean package
+
+## Run on Hadoop
+
+### 1. Weakly Connected Components
+hadoop jar target/wiki-vote-analysis-1.0-SNAPSHOT.jar \
+    org.apache.giraph.examples.wiki.WikiVoteAnalysisRunner \
+    wcc \
+    /input/wiki-vote-giraph.txt \
+    /output/wcc
+
+### 2. Triangle Counting
+hadoop jar target/wiki-vote-analysis-1.0-SNAPSHOT.jar \
+    org.apache.giraph.examples.wiki.WikiVoteAnalysisRunner \
+    triangle \
+    /input/wiki-vote-giraph.txt \
+    /output/triangles
+
+### 3. PageRank
+hadoop jar target/wiki-vote-analysis-1.0-SNAPSHOT.jar \
+    org.apache.giraph.examples.wiki.WikiVoteAnalysisRunner \
+    pagerank \
+    /input/wiki-vote-giraph.txt \
+    /output/pagerank
+
+## Performance Testing
+Time each algorithm execution and compare with Neo4j results.
