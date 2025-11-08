@@ -1,0 +1,282 @@
+[
+  {
+    "timestamp": "2025-11-08T19:38:59.801218",
+    "elapsed_time": 4.001742839813232,
+    "nodes": 1273,
+    "edges": 5000,
+    "edges_per_second": 1249.4555997589684,
+    "window_rate": 7083.527550459298
+  },
+  {
+    "timestamp": "2025-11-08T19:39:01.517552",
+    "elapsed_time": 5.718096733093262,
+    "nodes": 1825,
+    "edges": 10000,
+    "edges_per_second": 1748.8336533597605,
+    "window_rate": 4128.4498577835375
+  },
+  {
+    "timestamp": "2025-11-08T19:39:01.519881",
+    "elapsed_time": 5.720412969589233,
+    "nodes": 1825,
+    "edges": 10000,
+    "edges_per_second": 1748.1255379920713,
+    "window_rate": 4124.505813027302
+  },
+  {
+    "timestamp": "2025-11-08T19:39:04.233076",
+    "elapsed_time": 8.433393955230713,
+    "nodes": 2235,
+    "edges": 15000,
+    "edges_per_second": 1778.6433409406218,
+    "window_rate": 2919.7004143205218
+  },
+  {
+    "timestamp": "2025-11-08T19:39:07.858371",
+    "elapsed_time": 12.0584716796875,
+    "nodes": 2438,
+    "edges": 20000,
+    "edges_per_second": 1658.5849791968253,
+    "window_rate": 2282.429839959609
+  },
+  {
+    "timestamp": "2025-11-08T19:39:07.862511",
+    "elapsed_time": 12.062577486038208,
+    "nodes": 2438,
+    "edges": 20000,
+    "edges_per_second": 1658.0204374354432,
+    "window_rate": 2281.3608217568826
+  },
+  {
+    "timestamp": "2025-11-08T19:39:12.420849",
+    "elapsed_time": 16.620853900909424,
+    "nodes": 2606,
+    "edges": 25000,
+    "edges_per_second": 1504.1345137286903,
+    "window_rate": 1876.1762938250217
+  },
+  {
+    "timestamp": "2025-11-08T19:39:17.952718",
+    "elapsed_time": 22.152411460876465,
+    "nodes": 2776,
+    "edges": 30000,
+    "edges_per_second": 1354.2543687843292,
+    "window_rate": 1590.9607006820481
+  },
+  {
+    "timestamp": "2025-11-08T19:39:17.959588",
+    "elapsed_time": 22.15920662879944,
+    "nodes": 2776,
+    "edges": 30000,
+    "edges_per_second": 1353.8390837968989,
+    "window_rate": 1590.3873852062604
+  },
+  {
+    "timestamp": "2025-11-08T19:39:23.048620",
+    "elapsed_time": 27.248726844787598,
+    "nodes": 2948,
+    "edges": 35000,
+    "edges_per_second": 1284.4636815277534,
+    "window_rate": 1099.6731411978383
+  },
+  {
+    "timestamp": "2025-11-08T19:39:27.365123",
+    "elapsed_time": 31.565151929855347,
+    "nodes": 3123,
+    "edges": 40000,
+    "edges_per_second": 1267.2202588756336,
+    "window_rate": 1030.467987542444
+  },
+  {
+    "timestamp": "2025-11-08T19:39:27.373141",
+    "elapsed_time": 31.57317304611206,
+    "nodes": 3123,
+    "edges": 40000,
+    "edges_per_second": 1266.8983235096678,
+    "window_rate": 1030.0548417785287
+  },
+  {
+    "timestamp": "2025-11-08T19:39:31.555775",
+    "elapsed_time": 35.75590133666992,
+    "nodes": 3392,
+    "edges": 45000,
+    "edges_per_second": 1258.533509651725,
+    "window_rate": 1044.786355849762
+  },
+  {
+    "timestamp": "2025-11-08T19:39:35.918600",
+    "elapsed_time": 40.11865997314453,
+    "nodes": 3620,
+    "edges": 50000,
+    "edges_per_second": 1246.3028434516518,
+    "window_rate": 1088.5160285119696
+  },
+  {
+    "timestamp": "2025-11-08T19:39:35.926931",
+    "elapsed_time": 40.1270010471344,
+    "nodes": 3620,
+    "edges": 50000,
+    "edges_per_second": 1246.0437783842474,
+    "window_rate": 1088.0622104221898
+  },
+  {
+    "timestamp": "2025-11-08T19:39:40.467579",
+    "elapsed_time": 44.6677131652832,
+    "nodes": 3721,
+    "edges": 55000,
+    "edges_per_second": 1231.3144350256841,
+    "window_rate": 1140.173477450871
+  },
+  {
+    "timestamp": "2025-11-08T19:39:45.189371",
+    "elapsed_time": 49.38937067985535,
+    "nodes": 3937,
+    "edges": 60000,
+    "edges_per_second": 1214.8362931960269,
+    "window_rate": 1128.5201698459641
+  },
+  {
+    "timestamp": "2025-11-08T19:39:45.201933",
+    "elapsed_time": 49.40173673629761,
+    "nodes": 3937,
+    "edges": 60000,
+    "edges_per_second": 1214.5321999563507,
+    "window_rate": 1127.8227218744787
+  },
+  {
+    "timestamp": "2025-11-08T19:39:49.780312",
+    "elapsed_time": 53.980432987213135,
+    "nodes": 4232,
+    "edges": 65000,
+    "edges_per_second": 1204.1400263572762,
+    "window_rate": 1104.5978027142291
+  },
+  {
+    "timestamp": "2025-11-08T19:39:54.341037",
+    "elapsed_time": 58.541096210479736,
+    "nodes": 4374,
+    "edges": 70000,
+    "edges_per_second": 1195.7411892035761,
+    "window_rate": 1090.3047039044725
+  },
+  {
+    "timestamp": "2025-11-08T19:39:54.352676",
+    "elapsed_time": 58.55245232582092,
+    "nodes": 4374,
+    "edges": 70000,
+    "edges_per_second": 1195.509277911676,
+    "window_rate": 1089.685856809603
+  },
+  {
+    "timestamp": "2025-11-08T19:39:58.810709",
+    "elapsed_time": 63.01079344749451,
+    "nodes": 4656,
+    "edges": 75000,
+    "edges_per_second": 1190.272267599611,
+    "window_rate": 1090.106370444309
+  },
+  {
+    "timestamp": "2025-11-08T19:40:03.296280",
+    "elapsed_time": 67.49641370773315,
+    "nodes": 5074,
+    "edges": 80000,
+    "edges_per_second": 1185.2481577229976,
+    "window_rate": 1100.5019188459805
+  },
+  {
+    "timestamp": "2025-11-08T19:40:03.313575",
+    "elapsed_time": 67.51341342926025,
+    "nodes": 5074,
+    "edges": 80000,
+    "edges_per_second": 1184.9497149751292,
+    "window_rate": 1099.5672117848635
+  },
+  {
+    "timestamp": "2025-11-08T19:40:07.886234",
+    "elapsed_time": 72.08633399009705,
+    "nodes": 5334,
+    "edges": 85000,
+    "edges_per_second": 1179.1416665976797,
+    "window_rate": 1103.9807758941506
+  },
+  {
+    "timestamp": "2025-11-08T19:40:12.499591",
+    "elapsed_time": 76.69972681999207,
+    "nodes": 5645,
+    "edges": 90000,
+    "edges_per_second": 1173.4070476055615,
+    "window_rate": 1100.0714610102177
+  },
+  {
+    "timestamp": "2025-11-08T19:40:12.519064",
+    "elapsed_time": 76.71890568733215,
+    "nodes": 5645,
+    "edges": 90000,
+    "edges_per_second": 1173.113708983219,
+    "window_rate": 1099.0173264627535
+  },
+  {
+    "timestamp": "2025-11-08T19:40:17.014104",
+    "elapsed_time": 81.21379852294922,
+    "nodes": 6005,
+    "edges": 95000,
+    "edges_per_second": 1169.7519599844245,
+    "window_rate": 1101.1283425852994
+  },
+  {
+    "timestamp": "2025-11-08T19:40:21.589135",
+    "elapsed_time": 85.78925609588623,
+    "nodes": 6418,
+    "edges": 100000,
+    "edges_per_second": 1165.6471282165041,
+    "window_rate": 1095.6638866424007
+  },
+  {
+    "timestamp": "2025-11-08T19:40:21.620234",
+    "elapsed_time": 85.82005381584167,
+    "nodes": 6418,
+    "edges": 100000,
+    "edges_per_second": 1165.228819531931,
+    "window_rate": 1093.9793243079434
+  },
+  {
+    "timestamp": "2025-11-08T19:40:25.016752",
+    "elapsed_time": 89.21683549880981,
+    "nodes": 7115,
+    "edges": 103689,
+    "edges_per_second": 1162.2133806952081,
+    "window_rate": 1089.69589817581
+  },
+  {
+    "timestamp": "2025-11-08T19:41:23.603028",
+    "elapsed_time": 147.80392622947693,
+    "nodes": 7115,
+    "edges": 103689,
+    "edges_per_second": 701.5307552724606,
+    "window_rate": 0.0
+  },
+  {
+    "timestamp": "2025-11-08T19:41:59.641645",
+    "elapsed_time": 183.84254360198975,
+    "nodes": 7115,
+    "edges": 103689,
+    "edges_per_second": 564.0098204063239,
+    "window_rate": 0.0
+  },
+  {
+    "timestamp": "2025-11-08T19:42:42.992268",
+    "elapsed_time": 227.19316601753235,
+    "nodes": 7115,
+    "edges": 103689,
+    "edges_per_second": 456.3913687086802,
+    "window_rate": 0.0
+  },
+  {
+    "timestamp": "2025-11-08T19:43:03.924247",
+    "elapsed_time": 248.12514233589172,
+    "nodes": 7115,
+    "edges": 103689,
+    "edges_per_second": 417.88993660156467,
+    "window_rate": 0.0
+  }
+]
